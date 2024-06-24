@@ -5,7 +5,7 @@ Idea:
 
 Marketplace of chains solving a real world problem. 
 
-Technically
+Technically:
 
 Leverage the tokenization of real-world assets to solve problems.
 
@@ -18,3 +18,6 @@ Executes at a certain time. Ex: If this gene is found in one of my descendents t
 
 Summary:
 Blockchains "Materialize" energy in the digital world. Energy is harnessed through code in the present moment through network processing to cement a block in time. 
+
+Business Model Concept: 
+Bring real world assets into the digital world and solve problems by processing information and giving instructions. 
