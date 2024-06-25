@@ -16,8 +16,11 @@ Example: Healthcare data accessibility smart contract.
 Executes at a certain time. Ex: If this gene is found in one of my descendents then give access to my medical history to that person. We might not want our loved ones to have access to our health records while we are alive but have sort of a self-executable will at the time of an event. 
 
 
-Summary:
-Blockchains "Materialize" energy in the digital world. Energy is harnessed through code in the present moment through network processing to cement a block in time. 
+    Summary:
+Blockchains harness energy to "Materialize" information in the physical world. Energy is harnessed through code in the present moment through processing power to cement a block in time. 
 
 Business Model Concept: 
 Bring real world assets into the digital world and solve problems by processing information and giving instructions. 
+
+
+
