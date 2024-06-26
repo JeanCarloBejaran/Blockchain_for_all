@@ -23,4 +23,9 @@ Business Model Concept:
 Bring real world assets into the digital world and solve problems by processing information and giving instructions. 
 
 
+Idea: (Make this into its own folder)
+
+1. Network database of lawyers and cases brought to a map. Clients want experienced lawyers in that jurisdiction. Network usage/referral gas fees maintain the network funded in the cloud. 
+2.  
+
 
